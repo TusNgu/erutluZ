@@ -13,6 +13,6 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
 <!--END_SECTION:waka-->
 
 <p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=erutluZ&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=erutluZ&theme=react&hide_border=true" alt="Wakatime" />
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=erutluZZ&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
+  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=erutluZZ&theme=react&hide_border=true" alt="Wakatime" />
 </p>
