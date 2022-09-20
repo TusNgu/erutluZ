@@ -20,10 +20,8 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=erutluZZ&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erutluZZ&layout=compact&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=erutluZ&theme=react&hide_border=true" />
     </td>
   </tr>
 </table>
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=erutluZZ&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=erutluZ&theme=react&hide_border=true" alt="Wakatime" />
 </p>
