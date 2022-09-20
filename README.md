@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=erutluZZ&color=22db3f&style=flat-square)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&color=6BF765&lines=Hey!+I'm+erutluZ)](https://github.com/erutluZZ)
 
 Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Vietnamese, Bac Ninh Province**.
@@ -13,6 +14,16 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
 <!--END_SECTION:waka-->
 
 <p align="left">
+ <table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=erutluZZ&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erutluZZ&layout=compact&count_private=true" />
+    </td>
+  </tr>
+</table>
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=erutluZZ&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
   </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=erutluZ&theme=react&hide_border=true" alt="Wakatime" />
 </p>
