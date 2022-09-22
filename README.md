@@ -9,7 +9,7 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
 [![Discord Presence](https://lanyard.cnrad.dev/api/921061399378165782)](https://discord.com/users/921061399378165782)
 
 <h2>⚡ Recent Activity</h2>
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=erutluZZ&custom_title=erutluZ%27s%20activity%20graph&theme=react-dark&hide_border=true)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=erutluZZ&custom_title=erutluZ%27s%20activity%20graph&theme=react-dark&hide_border=true)]
 
 <h2>⚡ Stats</h2>
 
