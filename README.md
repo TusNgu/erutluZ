@@ -3,7 +3,7 @@
 
 Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Vietnamese, Bac Ninh Province**.
 
-- 💼 Want work done? Contact me on discord at: erutluZ#7046
+- 💼 Want work done? Contact me on discord at: erutluZ
 - 💬 Do add me on discord or facebook too if you just want to have a chat!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/921061399378165782)](https://discord.com/users/921061399378165782)
